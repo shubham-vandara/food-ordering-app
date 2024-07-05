@@ -1,6 +1,6 @@
 # Food Ordering App
 
-Food Dash App is a web application that allows users to browse, order, from various restaurants. The app provides a seamless experience for users to explore menus and place orders online.
+Food Ordering App is a web application that allows users to browse, order, from various restaurants. The app provides a seamless experience for users to explore menus and place orders online.
 
 ## Features
 
